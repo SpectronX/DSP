@@ -1,6 +1,6 @@
 ### Digital Signal Processing
 
-My growing interest in how devices communicate wirelessly, led me to DSP. Not a surprise I guess. Well, it all boiled down to the understanding of the 
+My growing interest in how devices communicate wirelessly, led me to DSP. Not a surprise I guess. Well, it all boiled down to understanding the 
 mathematical and computational toolbox that allowed us to manipulate and extract information from signals: seeing that most of our modern world runs on signals.
 
 In 'The Scientist and Engineer's Guide to DSP', Steven W. Smith simply defines DSP as "the mathematics, the algorithms, and the techniques used to manipulate
