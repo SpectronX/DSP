@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 What's the one characteristic of almost every real-world signals we encounter in our lives daily? They are continuous signals.
 
