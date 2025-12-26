@@ -24,7 +24,7 @@ In code, which would mostly be done here, all one needs to do is explicitly defi
 A stem plot is often used to show the values of a signal at discrete time instants
 
 However, if the signal is not sampled properly, one might reconstruct the original signal as one with a different frequency.
-The term that describes this phenomenon is \emph{Aliasing}
+The term that describes this phenomenon is *Aliasing*
 
 ## Nyquist-Shannon Sampling Theorem
 
