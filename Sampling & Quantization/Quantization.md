@@ -18,11 +18,16 @@ Next, we determine the length/range of the signal. This can also be obtained thr
 
 $$ R = y_{\max} - y_{\min} $$
 
-In the case of a sine wave, its length would be: $$ 1 - (-1) = 2 $$
+In the case of a sine wave, its length would be: 
+
+$$ 1 - (-1) = 2 $$
 
 The quantization levels are defined in steps. A step is calculated using the formula:
+
 $$ \Delta = \frac{R}{L} = \frac{(y_{\max} - y_{\min})}{2^n} $$
 
-Therefore, with a 3-bit quantizer, we have 8 levels with a step size of: $$ \frac{2}{8} = 0.25 $$
+Therefore, with a 3-bit quantizer, we have 8 levels with a step size of: 
+
+$$ \frac{2}{8} = 0.25 $$
 
 Here is a table that shows the various binary representations for 3 bits and their corresponding quantization levels:
