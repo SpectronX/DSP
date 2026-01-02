@@ -30,6 +30,6 @@ The term that describes this phenomenon is *Aliasing*
 
 A movie can be explained as pictures in motion. The faster the pictures are shown, the smoother the motion appears. This is commonly described by the frame rate (fps). If the pictures are shown too slowly, motion appears rough, lagging occurs, and it becomes difficult to determine the exact time at which a particular frame occurred, producing motion effects different from what was expected.
 
-Basically, that's what \emph{aliasing} is: sampling a signal at a rate that is too low. When we try to reconstruct the signal, we obtain a frequency different from the original frequency.
+Basically, that's what *aliasing* is: sampling a signal at a rate that is too low. When we try to reconstruct the signal, we obtain a frequency different from the original frequency.
 
 To address this, one must follow the sampling theorem. The theorem explains that sampling must be done at a frequency equal to or greater than twice the highest frequency component of the signal. ($f_s \ge 2 f_{\text{max}}$)
